@@ -1,622 +1,622 @@
-<h1 align="center">杨景媛论文问题汇总</h1>
+<h1 align="center">Compilation of Issues in Yang Jingyuan's Thesis</h1>
 
-&emsp;&emsp;本仓库专门用来记录武汉大学国际经济贸易专业杨景媛的**优秀**硕士毕业论文《中印生育行为影响家庭暴力的经济学分析》中存在的问题，本人认为该仓库似乎确实<sup>[1]</sup>是**全网最全**的错误记录。原论文在[这里](./paper/YJYpaper.pdf) 欢迎各位评论并列举更多的错误，也可以提供举报的地址。如下所示，这可是杨博自己声明的哦！    
-![sm](./pic/sm.jpeg) 
+&emsp;&emsp;This repository is dedicated to documenting the issues found in the **excellent** master's thesis by Yang Jingyuan, a student of International Economics and Trade at Wuhan University, titled "An Economic Analysis of the Impact of Fertility Behavior on Domestic Violence in China and India." I believe this repository is indeed<sup>[1]</sup> the **most comprehensive** record of errors on the entire internet. The original thesis can be found [here](./paper/YJYpaper.pdf). Everyone is welcome to comment and list more errors, or to provide addresses for reporting them. As shown below, this was declared by Dr. Yang herself!
+![sm](./pic/sm.jpeg)
 
-❗有博主（李然于心）已经被粉衣哥带俩金哥深夜登门拜访了！！！视频在[夸克网盘](https://pan.quark.cn/s/10cebfa84661#/list/share)，顿时有点害怕捏！！！  
+❗A blogger (Li Ranyuxin) has been visited late at night by "Pink-shirt Bro" and two "Gold Bros"!!! The video is on [Quark Cloud Drive](https://pan.quark.cn/s/10cebfa84661#/list/share), and I'm suddenly feeling a bit scared!!!
 
-友情链接：[杨景媛及武大的耻辱柱](https://github.com/yangjingyuan0828/awesome-yangjingyuan)
+Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://github.com/yangjingyuan0828/awesome-yangjingyuan)
 
-## 📑TODO  
-- [x] 收集论文中存在问题(不断更新中...)
-- [x] 提供将本文档转为pdf的[教程](./doc/export2PDF.md) 🔥🔥🔥
-- [x] 向中华人民共和国教育部举报[如图](./doc/jb1.jpeg)
-- [ ] 向[武汉大学学术委员会](xsxf@whu.edu.cn)举报
-- [ ] 向[教育部学位与研究生教育发展中心](jdjb@cdgdc.edu.cn)举报
-- [ ] 在教育部科研诚信管理信息系统举报
-- [ ] 向湖北省教育厅举报
+## 📑TODO
+- [x] Collect issues in the thesis (continuously updating...)
+- [x] Provide a [tutorial](./doc/export2PDF.md) on converting this document to PDF 🔥🔥🔥
+- [x] Report to the Ministry of Education of the People's Republic of China [as shown in the picture](./doc/jb1.jpeg)
+- [ ] Report to the [Academic Committee of Wuhan University](xsxf@whu.edu.cn)
+- [ ] Report to the [China Academic Degrees and Graduate Education Development Center (CDGDC) of the Ministry of Education](jdjb@cdgdc.edu.cn)
+- [ ] Report on the Research Integrity Management Information System of the Ministry of Education
+- [ ] Report to the Hubei Provincial Department of Education
 - [ ] ...
 
-## 🔧主要问题
-### 涉嫌造假  
+## 🔧Main Issues
+### Suspected Fabrication/Falsification
 
-1. 疑似内容编造(第一页倒数第三行内容)： 
+1.  Suspected content fabrication (Page 1, third to last line):
 
->例如部分国家和地区出台的《立即逮捕法案》 
+    >For example, the "Immediate Arrest Act"（“立即逮捕法案”） introduced in some countries and regions,
 
-并未找到因家暴出台的《立即逮捕法案》，此处疑似为 强制逮捕法案（mandatory arrest laws）。
+    No "Immediate Arrest Act" related to domestic violence could be found. This is suspected to be a reference to "Mandatory Arrest Laws"（“强制逮捕法案”）.
 
-2. 内容编造(第二页第五行内容)：  
+2.  Content fabrication (Page 2, fifth line):
 
->而在 2001 年随着《离婚法》的出台与宣传 
+    >And in 2001, with the introduction and promotion of the "Divorce Law"（“离婚法”）, 
 
-我国并未颁布《离婚法》，此为杜撰内容。
+    China has never enacted a "Divorce Law." This is a fabrication.
 
-3. 数据编造(第十四页的图2.1)：  
+3.  Data fabrication (Page 14, Figure 2.1):
 
->图2.1 全球各国家暴发生率直方图：
-![plt](./pic/plt.jpeg)  
+    >Figure 2.1 Histogram of Domestic Violence Incidence Rates in Countries Worldwide:
+    >![plt](./pic/plt.jpeg)
 
-纵坐标为频数，频数指的是xxx出现的次数，只能是整数，可是论文图中却出现了小数，说明该数据为编造数据。  
-就算把每一条都按最大值5来计算，也只有60，根本凑不满100个国家，疑似数据编造。
+    The y-axis represents frequency, which refers to the number of occurrences of xxx and can only be an integer. However, the figure in the thesis shows decimals, indicating that the data is fabricated.
+    Even if each bar is calculated at its maximum value of 5, the total is only 60, which is far from the 100 countries claimed. This suggests data fabrication.
 
-4. 疑似数据编造(第四十三页的表5.1)：  
+4.  Suspected data fabrication (Page 43, Table 5.1):
 
->![t5.1](./pic/tab4.jpeg)  
+    >![t5.1](./pic/tab4.jpeg)
 
-城镇样本与乡村样本之和不等于全样本，疑似数据编造。  
-例如：5230+5287=10517≠10519  
-&emsp;&emsp;&emsp;5510+5354=10864≠10867   
+    The sum of urban and rural samples does not equal the total sample, suggesting data fabrication.
+    For example: 5230 + 5287 = 10517 ≠ 10519
+    &emsp;&emsp;&emsp;5510 + 5354 = 10864 ≠ 10867
 
-5. 疑似数据编造(第四十五页的表5.2)：  
+5.  Suspected data fabrication (Page 45, Table 5.2):
 
->![t5.2](./pic/tab5.jpg)  
+    >![t5.2](./pic/tab5.jpg)
 
-城镇样本与乡村样本之和不等于全样本，疑似数据编造。  
+    The sum of urban and rural samples does not equal the total sample, suggesting data fabrication.
 
-6. 疑似数据编造(第四十六页的表5.3)：  
+6.  Suspected data fabrication (Page 46, Table 5.3):
 
->![t5.3](./pic/tab6.jpeg)  
+    >![t5.3](./pic/tab6.jpeg)
 
-城镇样本与乡村样本之和不等于全样本，疑似数据编造。  
+    The sum of urban and rural samples does not equal the total sample, suggesting data fabrication.
 
-7. 疑似数据编造(第四十七页的表5.4)：  
+7.  Suspected data fabrication (Page 47, Table 5.4):
 
->![t5.4](./pic/tab7.jpeg)   
+    >![t5.4](./pic/tab7.jpeg)
 
-城镇样本与乡村样本之和不等于全样本，疑似数据编造。  
+    The sum of urban and rural samples does not equal the total sample, suggesting data fabrication.
 
-8. 疑似数据编造(第四十八页的表5.5)：  
+8.  Suspected data fabrication (Page 48, Table 5.5):
 
->![t5.5](./pic/tab8.jpeg)  
+    >![t5.5](./pic/tab8.jpeg)
 
-高种姓样本与低种姓样本之和不等于全样本，疑似数据编造。
+    The sum of high-caste and low-caste samples does not equal the total sample, suggesting data fabrication.
 
-### 涉嫌抄袭剽窃
+### Suspected Plagiarism
 
-1. 整段抄袭(第二页最后一段内容)：  
+1.  Paragraph plagiarism (Page 2, last paragraph):
 
->在印度，根据印度国家犯罪研究局的官方报告，2019 年针对妇女的 40.5 万犯罪案件中，其中有超过 30%是家庭暴力案件。2021 年印度 NFHS-5 数据显示，在 18~49 岁的印度女性中，近三分之一的人遭受过家庭暴力，32%的已婚女性曾遭受伴侣在身体、性或情感等方面的暴力，其中 27%的女性在调查的近一年时间内至少遭受过一种形式的暴力。  
+    >In India, according to the official report of the National Crime Records Bureau of India, of the 405,000 criminal cases against women in 2019, more than 30% were domestic violence cases. India's NFHS-5 data from 2021 shows that among Indian women aged 18-49, nearly one-third have experienced domestic violence, and 32% of married women have suffered physical, sexual, or emotional violence from their partners, of which 27% of women have experienced at least one form of violence in the year prior to the survey.
 
-涉嫌抄袭论文 何晖,王凌林.印度反家庭暴力的实践与成效[J].现代世界警察, 2022(11):58-64 ，杨的原文内未出现任何引用。  
+    This is suspected to be plagiarized from the paper: He Hui, Wang Linglin. "Practice and Effectiveness of Anti-Domestic Violence in India" [J]. Modern World Police, 2022(11):58-64.（何晖,王凌林.印度反家庭暴力的实践与成效[J].现代世界警察, 2022(11):58-64） No citation appears in Yang's original text.
 
-![en_abstract](./pic/pap2.jpg)  
+    ![en_abstract](./pic/pap2.jpg)
 
-2. 整段抄袭(第三页第一段内容)：
+2.  Paragraph plagiarism (Page 3, first paragraph):
 
->不完善的法律制度与复杂的举报流程是印度家庭暴力频发的外在原因。早在1983 年，印度刑法典修订的第 498A 条就规定如果丈夫或夫家亲属虐待妇女，处以最高三年的监禁及相应罚款。2005 年 6 月，印度通过首部《反家庭暴力法》。但印度反家庭暴力的法律并没有根据社会的变化进行修改。同时，复杂的举报证据与流程，加之缺乏严格执法，使印度反家庭暴力法律制度有名无实、形同虚设，很多案件不了了之。截至 2020 年底，基于第 498A 的定罪率不到 20%，印度法院总共有 65.1 万起 498A 家庭暴力案件悬而未决。
+    >The imperfect legal system and complex reporting procedures are external reasons for the high incidence of domestic violence in India. As early as 1983, Section 498A of the revised Indian Penal Code stipulated that if a husband or his relatives abuse a woman, they shall be sentenced to a maximum of three years in prison and a corresponding fine. In June 2005, India passed its first "Protection of Women from Domestic Violence Act". However, India's anti-domestic violence laws have not been amended to reflect social changes. At the same time, complex reporting evidence and procedures, coupled with a lack of strict enforcement, have rendered India's anti-domestic violence legal system a mere formality, with many cases left unresolved. By the end of 2020, the conviction rate based on Section 498A was less than 20%, and Indian courts had a total of 651,000 pending Section 498A domestic violence cases.
 
-涉嫌抄袭论文 何晖,王凌林.印度反家庭暴力的实践与成效[J].现代世界警察, 2022(11):58-64 ，杨的原文内未出现任何引用。
+    This is suspected to be plagiarized from the paper: He Hui, Wang Linglin. "Practice and Effectiveness of Anti-Domestic Violence in India" [J]. Modern World Police, 2022(11):58-64. No citation appears in Yang's original text.
 
-![en_abstract](./pic/pap1.jpg)  
+    ![en_abstract](./pic/pap1.jpg)
 
-3. 疑似抄袭未删干净(第四页最后一段的内容)：  
+3.  Suspected incomplete deletion after plagiarism (Page 4, last paragraph):
 
->2013 年 12 月，第十二届全国人大常委会通过了《关于调整完善生育政策的
-决议》，其中规定，即单独二孩政策。不到两年后，为更进一步促进人口均衡发
-展，修正逐渐失衡的人口结构，2015 年 10 月，中共十八届五中全会明确提出实
-施全面二孩政策，从此，所有夫妇都获得了生育两个子女的权利。
+    >In December 2013, the Standing Committee of the Twelfth National People's Congress passed the "Resolution on Adjusting and Improving Fertility Policies," **which stipulated, that is, the policy allowing couples where one parent is an only child to have two children**. Less than two years later, to further promote balanced population development and correct the gradually imbalanced population structure, in October 2015, the Fifth Plenary Session of the 18th CPC Central Committee explicitly proposed the implementation of a universal two-child policy, henceforth giving all couples the right to have two children.
 
-“其中规定，即单独二孩政策。”与前后文不搭，疑似抄袭未删干净。  
+    The phrase "which stipulated, that is, the policy allowing couples where one parent is an only child to have two children" (其中规定，即单独二孩政策) does not fit with the surrounding text and is suspected to be an artifact of incomplete deletion after plagiarism.
 
-### 数据错误
+### Data Errors
 
-1. 数量错误(第三页倒数第六行内容)：
+1.  Numerical error (Page 3, sixth to last line):
 
->全球两百多个国家中有 104 个国家的总和生育率低于代际人口平衡所需的 2.1 以下
+    >Among more than two hundred countries in the world, 104 have a total fertility rate below the 2.1 required for intergenerational population balance.
 
-全球193个联合国会员国，2个联合国观察员国（梵蒂冈和巴勒斯坦），并非两百多个国家，作者疑似将港澳台地区算作国家，这属于严重的**政治错误**，建议严查。
+    There are 193 UN member states and 2 observer states (Vatican and Palestine), not "more than two hundred countries." The author is suspected of counting Hong Kong SAR, Macau SAR, and Taiwan Provice as independent countries. This constitutes a serious **political error**, which should be thoroughly investigated.
 
-2. 年份错误(第四页第七行内容)：  
+2.  Year error (Page 4, seventh line):
 
->新中国成立之后，由于社会经济的逐渐稳定与发展，全国总人口从 1049 年之前的 5.42 亿增长到 1970 年的 8.30 亿。
+    >After the founding of New China（People's Republic of Chine, 新中国）, due to the gradual stability and development of the social economy, the total national population grew from 542 million before 1049 to 830 million in 1970.
 
-我国于1949年成立，并非1049年，这属于严重的**政治错误**。
+    People's Republic of China was founded in 1949, not 1049. This is the second serious **political error**.
 
-3. 常识性错误(第十五页最后一段内容)：   
+3.  Common sense error (Page 15, last paragraph):
 
->预计到 2087 年，世界人口将达到峰值 103 亿人，之后将缓慢下降至 2100 年的 103 亿人。”   
+    >It is predicted that the world population will peak at 10.3 billion in 2087, after which it will slowly decline to 10.3 billion in 2100.
 
-这降了啥？其中必有一个数据是错误的。   
+    God knows what was reduced here. One of these figures must be incorrect.
 
-4. 横坐标异常(第二十页图 2.8、图2.9)：   
-   
->![pic 2.8](./pic/img2.8.jpeg)  
+4.  Abnormal x-axis (Page 20, Figure 2.8, Figure 2.9):
 
-疑似漏掉了T_1。 
+    >![pic 2.8](./pic/img2.8.jpeg)
 
-5. 表格数据错误(第三十九页表4.1)：  
+    It seems T_1 is missing.
 
->![tab 4.1](./pic/tab2.jpeg)  
+5.  Table data error (Page 39, Table 4.1):
 
-表4.1的面板b和面板c中的最大值异常。  
+    >![tab 4.1](./pic/tab2.jpeg)
 
-6. 表格数据错误(第四十页表4.2)：  
+    The maximum values in Panel B and Panel C of Table 4.1 are abnormal.
 
->![tab 4.2](./pic/tab3.jpeg)   
+6.  Table data error (Page 40, Table 4.2):
 
-表4.2的中的最小值、最大值与区间不一致。   
+    >![tab 4.2](./pic/tab3.jpeg)
 
-7. 年份错误(第四十五页最后一段第四行内容)：   
+    The minimum, maximum, and range values in Table 4.2 are inconsistent.
 
->1990-201 年生育对家暴的影响不断减弱  
+7.  Year error (Page 45, last paragraph, fourth line):
 
-年份漏写一个数字。 
+    >The impact of fertility on domestic violence continuously weakened from 1990-201.
 
-8. 横坐标异常(第五十五页图 6.7)： 
-  
->![tab 4.2](./pic/pic.jpeg)  
+    A digit is missing from the year.
 
-疑似将事后8期写为事后7期。 
+8.  Abnormal x-axis (Page 55, Figure 6.7):
 
-### 数据分析错误
+    >![tab 4.2](./pic/pic.jpeg)
 
-1. 常识性分析错误(第二十一页第一段倒数三行内容)：  
+    It appears "post-event period 8" was written as "post-event period 7".
 
->![idiot](./pic/img2.jpg)  
+### Data Analysis Errors
 
-如上图所示,0.01% 应为10000位女性中有一位。  
+1.  Common sense analysis error (Page 21, first paragraph, last three lines):
 
-2. 数据分析异常(第二十四页的图2.15)：  
+    >![idiot](./pic/img2.jpg)
 
->![idiot](./pic/v2.jpg)  
+    As shown in the figure, 0.01% should be one in 10,000 women.
 
-对第二十四页论文中的图2.15（上图2.1）数据进行扒取，并对图片进行线性拟合（见上图2.2），得出图片线性拟合为y=0.1067xR2=01083，详细数据见[附件](./paper/testdata.csv)。  
-经验证，该数据的r方仅有0.1，证明生育数量与家暴发生率几乎无关。  
+2.  Abnormal data analysis (Page 24, Figure 2.15):
 
-3. 分析错误(第二十五页倒数第六行内容)：   
+    >![idiot](./pic/v2.jpg)
 
->本文用各地区人均道观数据衡量该地区思想传统程度
+    After extracting the data from Figure 2.15 (shown above as 2.1) on page 24 of the thesis and performing a linear fit (see above figure 2.2), the linear fit equation is y = 0.1067x with an R² of 0.1083. Detailed data can be found in the [attachment](./paper/testdata.csv).
+    It has been verified that the R-squared of this data is only 0.1, proving that fertility rate and domestic violence incidence are almost unrelated.
 
-道教属于宗教范畴，不同地区的宗教分布不一致，故人均道观数跟当地思想传统程度无直接关系。
+3.  Analysis error (Page 25, sixth to last line):
 
-4. 强行拟合(第二十六页图2.18)：  
+    >This paper uses per capita Taoist temple data in each region to measure the degree of traditional thought in that region.
 
->![idiot](./pic/img.jpeg)   
+    Taoism is a religion, and the distribution of religions varies across regions. Therefore, the number of per capita Taoist temples has no direct relationship with the degree of traditional thought in a locality.
 
-图中的点散度过大，无明显线性关系。其中同为观念传统地区且生育率相近的甘肃和福建的家暴跨度过大，可说明该线不适合证明观念与家暴之间的关系。 
+4.  Forced fitting (Page 26, Figure 2.18):
 
-5. 公式分析错误(第三十三页第七行内容)：   
+    >![idiot](./pic/img.jpeg)
 
->增加量为1/2   
+    The points in the figure are too scattered, with no obvious linear relationship. The large disparity in domestic violence rates between Gansu and Fujian, both regions with traditional concepts and similar fertility rates, shows that this line is not suitable for demonstrating the relationship between concepts and domestic violence.
 
-此处增加量应为ϕα/2。
+5.  Formula analysis error (Page 33, seventh line):
 
-6. 模型使用错误(第三十七页)： 
+    >The increase is 1/2.
 
-在论文第4 节 4.数据与实证策略 4.1.实证策略 4.1.1.基于双重固定效应模型的实证策略.
+    The increase here should be ϕα/2.
 
->![model](./pic/picc.jpeg)  
+6.  Incorrect model usage (Page 37):
 
-该模型的被解释变量 DV, 代表个体是否遭遇家庭暴力; 由于被解释变量DV只有两种取值（二元变量），有或者没有遭遇家庭暴力, 因而这是一个典型的『二元选择模型（binary choice model）』  
-计量经济学的基本常识: 不能用线性模型来解释一个二元选择变量. 应该使用 Logistic回归 或 Probit回归模型。  
-但是, 论文中使用的所谓 "双重固定效应回归模型" 4.1 是一个线性模型. 这是一个严重的错误. 论文使用了错误的模型, 主要实证结果不可靠.  
+    In Section 4, "Data and Empirical Strategy," 4.1, "Empirical Strategy," 4.1.1, "Empirical Strategy Based on Two-Way Fixed Effects Model."
 
-7. 低级计算错误(第四十三页倒数第一行内容)：   
+    >![model](./pic/picc.jpeg)
 
->城镇样本家暴发生率上升 3.2%，而乡村家暴发生率上升 5.4%，二者相差 2.1%。
+    The dependent variable DV in this model represents whether an individual has experienced domestic violence. Since the dependent variable DV has only two possible values (a binary variable) - having experienced domestic violence or not - this is a classic "binary choice model."
+    A basic principle of econometrics is that a linear model cannot be used to explain a binary choice variable. A Logistic regression or Probit regression model should be used.
+    However, the so-called "two-way fixed effects regression model" 4.1 used in the thesis is a linear model. This is a serious error. The thesis used the wrong model, and its main empirical results are unreliable.
 
-5.4%-3.2%=2.2%，并非2.1%。  
+7.  Basic calculation error (Page 43, last line):
 
-### 写作与表达错误
+    >The incidence of domestic violence in the urban sample increased by 3.2%, while in the rural sample it increased by 5.4%, a difference of 2.1%.
 
-1. 摘要翻译错误：  
->中文关键词：生育；家庭暴力；母职惩罚；社会规范
+    5.4% - 3.2% = 2.2%, not 2.1%.
 
->英文关键词：Fertility；Domestic Violence；Outside Option；Social Norm  
+### Writing and Expression Errors
 
-“母职惩罚”和“Outside Option”的翻译无法对应。
+1.  Abstract translation error:
+    >Chinese keywords: 生育 (Fertility); 家庭暴力 (Domestic Violence); 母职惩罚 (Motherhood Penalty); 社会规范 (Social Norms)
 
-2. 摘要翻译问题：  
+    >English keywords: Fertility; Domestic Violence; Outside Option; Social Norm
 
->![en_abstract](./pic/zhaiyao.jpeg) 
+    The translation of "母职惩罚" (Motherhood Penalty) and "Outside Option" do not correspond.
 
-其中**关键词**三个字未翻译为英文keyword。  
+2.  Abstract translation issue:
 
-3. 概念混淆(第一页第二段第一至三行内容)：  
+    >![en_abstract](./pic/zhaiyao.jpeg)
 
->世界卫生组织 2018 年发布的《全球、区域及国家针对妇女的家庭暴力发生率调查》中显示适龄女性的家庭暴力终身发生率仍然高达 27%，即有 27%的女性一生中至少遭受过一次来自丈夫或男性亲密伴侣的身体和/或性暴力侵害   
+    The characters for "关键词" (Keywords) were not translated into the English word "Keywords."
 
-男性亲密伴侣没结婚的话不算家暴。  
+3.  Concept confusion (Page 1, second paragraph, first to third lines):
 
-4. 错别字(第三页图1.2的图注)：  
+    >The "Global, Regional, and National Survey on the Prevalence of Domestic Violence Against Women" released by the World Health Organization in 2018 shows that the lifetime prevalence of domestic violence among women of childbearing age is as high as 27%, meaning 27% of women have experienced physical and/or sexual violence from a husband or male intimate partner at least once in their lifetime.
 
->注：图中横轴为时间线，纵轴为家暴发生率。1998-2021 年家暴发生率使用印度 NFHS2-5次调查计算得到。同时，图 1.2 标注了和印度家暴发生率相关的司法改革时间，此外，从2006 年开始印度民间反家暴组织“粉红邦”在印度北方地区开始活跃，也有效降低了家暴的发生率。
+    If a male intimate partner is not married to the woman, it is not considered domestic violence.
 
-将“粉红帮”错写成了“粉红邦”。  
+4.  Typo (Page 3, caption for Figure 1.2):
 
-“NFHS2-5次调查” 疑似有语病。
+    >Note: In the figure, the horizontal axis is the timeline, and the vertical axis is the domestic violence incidence rate. The domestic violence incidence rate for 1998-2021 was calculated using the Indian NFHS2-5 surveys. At the same time, Figure 1.2 marks the judicial reform times related to the incidence of domestic violence in India. In addition, since 2006, the Indian civil anti-domestic violence organization "Pink Bang" (粉红邦) has been active in northern India, also effectively reducing the incidence of domestic violence.
 
-5. 错别字(第四页第一行内容)：
+    Misspelled "粉红帮" (Gulabi Gang) as "粉红邦" (Pink State). In Chinese, both characters "帮" and "邦" are pronounced as "bang".
 
->伴随 90 年带股市房市大泡沫破裂  
+    The phrase "NFHS2-5次调查" (NFHS2-5 times survey) appears to be grammatically awkward.
 
-此处应为“年代”而不是“年带”。   
+5.  Typo (Page 4, first line):
 
-6. 错别字(第五页第九至十行内容)：  
+    >Following the burst of the stock and real estate market bubbles in the 90s era (90 年带).
 
->这些诊所主要负责发放避孕相关药物即器材”  
+    Should be "年代" (decade/era), not "年带." In Chinese, both characters "带" and "代" are pronounced as "dai".
 
-将“及”错写为“即”。   
 
-7. 错别字(第六页倒数第六至七行内容)：  
+6.  Typo (Page 5, ninth to tenth lines):
 
->而决定女性外部选则的关键因素包括女性的特质   
+    >These clinics were mainly responsible for distributing contraceptive-related drugs and (即) devices.
 
-此处应为“选择”而不是“选则”。  
+    Used "即" (that is) instead of "及" (and). In Chinese, both characters "即" and "及" are pronounced as "ji".
 
-8. 错别字(第八页第六至七行内容)： 
 
->此时就只会有表达性大家暴  
+7.  Typo (Page 6, sixth to seventh to last lines):
 
-此处的“大”疑似为“的”。   
+    >And the key factors that determine a woman's outside choice (选则) include the woman's characteristics.
 
-9. 错误字符(第八页)：  
+    Should be "选择" (option/choice), not "选则." In Chinese, both characters "择" and "则" are pronounced as "ze".
 
-第八页 关于家庭暴力的其他文献 中的第六行内容：
->例如，g 通过越南的数据发现  
 
-这个g指代不明，疑似错写字符。  
+8.  Typo (Page 8, sixth to seventh lines):
 
-10. 漏字(第八页最后一行内容)：  
+    >At this time, there will only be expressive domestic violence (大家暴).
 
->并不一发生资源的转移
+    The character "大" (big/large) is likely a typo for "的" (a possessive/descriptive particle).
 
-将“不一定”漏写为“不一”。  
+9.  Incorrect character (Page 8):
 
-11. 错别字(第九页倒数第二行内容)：  
+    Page 8, in the section "Other Literature on Domestic Violence," sixth line:
+    >For example, g it found through data from Vietnam that, 
 
->生育也会是的女性的工资率降低
-   
-将“使得”错写为“是的”；将“工资”错写为“工资率”。
+    God knows what "g" means.
 
-12. 错别字(第十页最后一段内容)：  
+10. Missing word (Page 8, last line):
 
->家庭经济学中围绕家庭暴力机制的讨论主要可以分为两只文献，第一支文献从家庭议价权出发，讨论了表达性家庭暴力背后的价格机制。第二支文献从工具性家暴行为的目的出发，解释了家暴行为可能具有的寻租属性。
+    >A transfer of resources _不一_ occur.
 
-将“支”错写为“只”。  
+    Omitted a character from "不一定" (not necessarily).
 
-13. 错别字(第十三页2.1.1第一段内容)：  
-  
->![picture](./pic/picture.jpeg)
+11. Typo (Page 9, second to last line):
 
-同时出现“家庭暴力的终身发生率”、“终身家庭暴力发生率”、“家暴的终生发生率”和“家暴发生率”四种表达方式。
+    >Childbirth will also 是的 women's 工资率 rates to decrease.
 
->疑似将“终身”和“终生”搞混。 
+    Used "是的" (is/yes) instead of "使得" (cause/make); "工资率" (wage rate) is likely a typo for "工资" (wages).
 
-14. 错别字(第十三页倒数第六行内容)：  
+12. Typo (Page 10, last paragraph):
 
->2.45 亿-3.07 亿的女生正在经受家庭暴力。   
+    >Discussions in family economics on the mechanisms of domestic violence can mainly be divided into two 只 of literature. The first branch, starting from family bargaining power, discusses the price mechanism behind expressive domestic violence. The second branch, from the purpose of instrumental domestic violence, explains the potential rent-seeking nature of domestic violence.
 
-疑似将“女性”错写为“女生”。
+    In Chinese, 只 (zhī) is the measure word for animals (like 'a cat'), while 支 (zhī) is the correct measure word for a branch of literature, making the error a common homophone typo.
 
-15. 写错时间(第十五页第一段第四行内容)：  
+1.  Typo (Page 13, 2.1.1, first paragraph):
 
->与 1960 年 -1665 之间的剧烈增长形成明显对比  
+    >![picture](./pic/picture.jpeg)
 
-疑似将1965写为1665。 
+    Simultaneously used four different expressions: "家庭暴力的终身发生率" (lifetime prevalence of domestic violence), "终身家庭暴力发生率" (lifetime domestic violence prevalence), "家暴的终生发生率" (lifetime prevalence of domestic violence), and "家暴发生率" (domestic violence prevalence).
+    Suspected confusion between "终身" and "终生" (both mean lifetime, but are used in slightly different contexts).
 
-16. 错别字(第十五页倒数第三行内容)：  
+2.  Typo (Page 13, sixth to last line):
 
->未来非洲人口获奖贡献90%的世界人口增量
+    >245 million - 307 million girls (女生) are experiencing domestic violence.
 
-疑似把“或将”错写为“获奖”。  
+    Likely used "女生" (girls/female students) instead of "女性" (females).
 
-17. 语病及错别字(第十六页倒数第七行内容)：  
+3.  Incorrect time (Page 15, first paragraph, fourth line):
 
->本人认为生育率与家暴发生率之间似乎确实存在某种正向关系   
+    >A sharp contrast to the dramatic increase between 1960 and -1665.
 
-疑似把“本文”错写为“本人”；“似乎确实”存在严重语病。  
+    Likely mistyped 1965 as 1665.
 
-18. 错别字(第十八页第三行内容)：  
+4.  Typo (Page 15, third to last line):
 
->就业情况等多个纬度
+    >In the future, Africa's population win an award（获奖） 90% of the world's population growth.
 
-把“维度”错写为“纬度”。 
+    Likely used "获奖" (win an award) instead of "或将" (will likely).
 
-19. 错别字(第十八页第二段第六行内容)： 
+5.  Grammatical error and typo (Page 16, seventh to last line):
 
->生育确实给女性就业遭成了影响   
+    >I think (本人认为) there seems to be （似乎） and is indeed (确实) a positive relationship between fertility rate and domestic violence incidence.
 
-把“造”错写为“遭”。  
+    Likely meant "This paper argues" (本文认为) instead of "I think" (本人认为); "seems to be indeed" (似乎确实) is redundant and grammatically awkward.
 
-20. 错别字(第十八页第二段最后一行内容)：  
->和丈夫相对收入水平的不同以及生育情况都对家暴遭成了影响。  
+6.  Typo (Page 18, third line):
 
-把“造”错写为“遭”。  
+    >...employment status, and other dimensions (纬度).
 
-21. 错别字(第十八页最后一段第三行内容)：  
+    Used "纬度" (latitude) instead of "维度" (dimension).
 
->几乎可以忽略不及   
+7.  Typo (Page 18, second paragraph, sixth line):
 
-此处可能存在语病，且把“忽略不计”错写为“忽略不及”。  
+    >Childbirth indeed had (遭成) an impact on women's employment.
 
-22. 字符顺序错误(第二十二页倒数第六行内容)：  
+    Used "遭" (suffer) instead of "造" (cause/create).
 
->可以看到当女性收入远小于丈夫（即不到丈夫收入的 1/4 时），家暴发生率较高   
+8.  Typo (Page 18, second paragraph, last line):
+    >...and the difference in relative income level with the husband, as well as the fertility situation, all had (遭成) an impact on domestic violence.
 
-应该把“时”移到右括号右边。  
+    Used "遭" (suffer) instead of "造" (cause/create).
 
-23. 错别字(第二十四页第一段第三行内容)：  
+9.  Typo (Page 18, last paragraph, third line):
 
->这和本文之间预设的研究框架相符。   
+    >...is 忽略不计 (忽略不及).
 
-疑似把“之前”错写为“之间”。   
+    This phrase may be grammatically awkward, and it misspells "忽略不计" (negligible).
 
-24. 多余字(第二十四页第二段第一行内容)：  
+10. Character order error (Page 22, sixth to last line):
 
->图 2.16 通展示了我国生育数量与平均家暴发生率之间的关系。   
+    >It can be seen that when a woman's income is far less than her husband's (i.e., less than 1/4 of her husband's income when), the incidence of domestic violence is higher.
 
-其中的“通”为多余字。   
+    The character "时" (when) should be moved after the closing parenthesis.
 
-25. 标点符号错误(p25)：  
+11. Typo (Page 24, first paragraph, third line):
 
->第二十五页倒数第五行内容：“甘肃，福建西藏以及辽宁等地”   
+    >This is consistent with the research framework pre-set between (之间) this paper.
 
-甘肃、福建应该用顿号；福建西藏之间没加顿号。  
+    Likely used "之间" (between) instead of "之前" (before/previously).
 
-26. 用词不当(第二十六页倒数第六行内容)：  
+12. Superfluous word (Page 24, second paragraph, first line):
 
->本文各省份分为宗族思想较强和宗族思想较弱的地区   
+    >Figure 2.16 through (通) shows the relationship between fertility quantity and average domestic violence incidence in our country.
 
-疑似把“图中”错写为“本文”。 
+    The character "通" is superfluous.
 
-27. 图片标题错误(第二十六页)：  
+13. Punctuation error (p25):
 
-图 2.19 下方的标题：
->“图2.19 平均数量与平均家暴发生率散点图（按照宗族文化程度分类）”   
+    >Page 25, fifth to last line: "Gansu, Fujian Tibet and Liaoning, etc."
 
-将“平均生育数量”漏写为“平均数量”。  
+    A顿号 (enumeration comma) should be used between "Gansu" and "Fujian"; no punctuation between "Fujian" and "Tibet".
 
-28. 图注错误(第二十七页图2.19下面的标注)：  
+14. Inappropriate word choice (Page 26, sixth to last line):
 
-图2.19下面的标注：
->注：图中横轴表示各省份平均生育数量，纵轴表示平均家暴发生率。本文使用了 Chen（2021）中对宗族文化的横梁变量，即各地区人均家谱数，并基于此变量分类。其中实点与实线表示宗族观念较强的地区，虚点与虚线表示宗族观念较弱的地区，结果发现，在宗族观念较弱的地区，生育数量与家暴发生率为正相关关系。
+    >This paper (本文) divides provinces into regions with strong clan ideology and weak clan ideology.
 
-把“衡量”错写为“横梁”。  
+    Likely meant "The figure" (图中) instead of "This paper" (本文).
 
-29. 简称错误(第二十七页2.2.4节内容)：  
+15. Incorrect figure caption (Page 26):
 
->也被称作受压迫的种姓（Scheduled Castes，简称 CS）   
+    Caption below Figure 2.19:
+    >"Figure 2.19 Scatter Plot of Average Quantity and Average Domestic Violence Incidence (Classified by Degree of Clan Culture)"
 
-简称错误，应为SCs或SC。  
+    Omitted "Fertility" from "Average Fertility Quantity," resulting in "Average Quantity."
 
-30. 文字重复，缺标点符合(第三十五页最后一行至三十六页第一行的内容)：  
+16. Incorrect figure note (Page 27, note below Figure 2.19):
 
->从经济激励上，丈夫家暴的丈夫家暴的概率越高   
+    Note below Figure 2.19:
+    >Note: In the figure, the horizontal axis represents the average fertility quantity of each province, and the vertical axis represents the average domestic violence incidence. This paper uses the measurement (横梁) variable for clan culture from Chen (2021), i.e., the per capita number of genealogies in each region, and classifies based on this variable. Solid dots and solid lines represent regions with stronger clan concepts, while hollow dots and dashed lines represent regions with weaker clan concepts. The results show that in regions with weaker clan concepts, there is a positive correlation between fertility quantity and domestic violence incidence.
 
-“丈夫家暴的”五个字重复，且最后忘记加句号。  
+    Misspelled "衡量" (measurement) as "横梁" (beam).
 
-31. 多写符号(第四十页倒数第三行内容)：  
+17. Incorrect abbreviation (Page 27, section 2.2.4):
 
->包括丈夫是否曾经对你有过殴打等行为，。   
+    >Also known as Scheduled Castes (abbreviated as CS).
 
-多写了一个逗号。    
+    The abbreviation is incorrect. It should be SCs or SC.
 
-32. 写错单词(第四十页倒数第二行内容)：  
+18. Repeated text, missing punctuation (Page 35, last line to Page 36, first line):
 
->NHHS4 调查中关于受访者回答的描述性统计见表 4.3.从表中可以看到   
+    >From an economic incentive perspective, the higher the probability of the husband's domestic violence of the husband's domestic violence
 
-将“NFHS4”错写为“NHHS4”。  
+    The phrase "丈夫家暴的" (of the husband's domestic violence) is repeated, and a period is missing at the end.
 
-33. 多处空格混乱：  
+19. Extra symbol (Page 40, third to last line):
 
-文中多处将“NHHS4”和“NHHS 4”以及将“NHHS3”和“NHHS 3”混着写，中间是否有空格未知。例如第四十页倒数第一段。
+    >Including whether the husband has ever beaten you, etc.,.
 
-34. 错别字及错误字符(第四十一页的表格)：  
+    An extra comma was added.
 
->![table](./pic/tab.jpeg)  
+20. Misspelled word (Page 40, second to last line):
 
-疑似将“7.”写成了“x7.”
+    >Descriptive statistics of respondents' answers in the NHHS4 survey are shown in Table 4.3. From the table, we can see
 
-将“被迫”写成了“被破”。
+    Misspelled "NFHS4" as "NHHS4."
 
-35. 多写符号(第四十三页倒数第四行内容)：  
+21. Inconsistent spacing in multiple places:
 
->3（生育 5 个以上）），家暴概率上升 4.4%。   
+    Throughout the text, "NHHS4" and "NHHS 4" as well as "NHHS3" and "NHHS 3" are used interchangeably, with inconsistent spacing. For example, in the last paragraph of page 40.
 
-连续写了两个右括号。  
+22. Typo and incorrect character (Page 41, table):
 
-36. 不合适的主语(第四十五页第一行内容)：  
+    >![table](./pic/tab.jpeg)
 
->本人仍采用个体是否 40 岁进行分组”   
+    Likely wrote "x7." instead of "7."
 
-疑似把“本文”错写为“本人”。  
+    Wrote "被破" (broken) instead of "被迫" (forced).
 
-37. 错别字(第四十五页倒数第五至六行内容)：  
+23. Extra symbol (Page 43, fourth to last line):
 
->因此外部选择被恶化，更容易受到家暴，而当后代长大承认，  
+    >3 (more than 5 births))), the probability of domestic violence increases by 4.4%.
 
-疑似将“因为”写成了“因此”；将“长大成人”写成了“长大承认”。  
+    Two consecutive closing parentheses were used.
 
-38. 文字重复(第四十八页倒数第二段第二至三行内容)：  
+24. Inappropriate subject (Page 45, first line):
 
->无论是 NFHS3（2005-2006 年调查）还是 NFHS4（2015 与 2017 调查）调查  
+    >I (本人) still use whether the individual is 40 years old for grouping.
 
-“调查”二字重复。  
+    Likely meant "This paper" (本文) instead of "I" (本人).
 
-39. 文字重复(第四十九页第一段第五行内容)：  
+25. Typos (Page 45, fifth to sixth to last lines):
 
->考虑在事件事件为 0（子女出生当年），  
+    >Therefore (因此) the outside option is worsened, making them more vulnerable to domestic violence, and when the offspring grow up to be adults (长大承认),
 
-“事件”二字重复。  
+    Likely meant "Because" (因为) instead of "Therefore" (因此); misspelled "长大成人" (grow up to be adults) as "长大承认" (grow up to admit).
 
-40. 错别字(第五十页倒数第二段第二行内容)：  
+26. Repeated text (Page 48, second to last paragraph, second to third lines):
 
->诚征在生育后第一期就出现了明显的家暴上升，  
+    >Whether it is the NFHS3 (2005-2006 survey) or the NFHS4 (2015 and 2017 survey) survey
 
-将“城镇”写成了“诚征”。  
+    The word "survey" (调查) is repeated.
 
-41. 错别字(第五十六页中间段第三行内容)：  
+27. Repeated text (Page 49, first paragraph, fifth line):
 
->而在平均受教育水平的人均中  
+    >Considering that at event time 0 (the year of the child's birth),
 
-将“人群”写成了“人均”。  
+    The word "event" (事件) is repeated.
 
-42. 多写符号(第五十六页倒数第三行内容)：  
+28. Typo (Page 50, second to last paragraph, second line):
 
->人口大邦（占全样本 95%以上）的母职惩罚）。   
+    >In urban areas (诚征), there was a significant increase in domestic violence in the first period after childbirth,
 
-母职惩罚后面多写了一个右括号。  
+    Misspelled "城镇" (urban areas) as "诚征" (sincere recruitment).
 
-43. 错别字(第五十七页中间段第二行内容)：  
+29. Typo (Page 56, middle paragraph, third line):
 
->从生育档期开始一直持续到生育后的第八年”  
+    >And in the population (人均) with an average level of education
 
-疑似将“当期”写成了“档期”。 
+    Misspelled "人群" (population/group) as "人均" (per capita).
 
-44. 错别字(第五十九页第一段第三行内容)：  
+30. Extra symbol (Page 56, third to last line):
 
->生育后家暴发生率会即可下降  
+    >...the motherhood penalty in populous states (accounting for over 95% of the total sample)).
 
-将“即刻”写成了“即可”。  
+    An extra closing parenthesis was added after "motherhood penalty."
 
-45. 错别字(第五十九页第二段第三行内容)：  
+31. Typo (Page 57, middle paragraph, second line):
 
->受教育群体较高的人群  
+    >...starting from the current period (档期) of childbirth and continuing until the eighth year after childbirth.
 
-将“受教育水平较高”写成了“受教育群体较高”。  
+    Likely used "档期" (schedule slot, esp. in entertainment) instead of "当期" (current period).
 
-46. 错别字(第六十一页政策启示第三段最后一行内容)：  
+32. Typo (Page 59, first paragraph, third line):
 
->可以让受害者更方面的结束暴力关系  
+    >The incidence of domestic violence will immediately (即可) decrease after childbirth.
 
-将“方便”写成了“方面”。  
+    Used "即可" (can then) instead of "即刻" (immediately).
 
-47. 错别字(第六十七页致谢部分第三段第四行内容)： 
+33. Typo (Page 59, second paragraph, third line):
 
->所以我希翼能构建一个生育友好型的社会”   
+    >The group with a higher level of education (受教育群体较高的人群).
 
-疑似将“希冀”写成了“希翼”。  
+    Wrote "受教育群体较高" (higher educated group) instead of "受教育水平较高" (higher education level).
 
-48. 标点符号错误(第六十七页致谢部分第四段第一行内容)：  
+46. Typo (Page 61, policy implications, third paragraph, last line):
 
->我们时常听到现如今中国女性的地位难道还不够高吗？， 
+    >...can allow victims to more conveniently (方面) end the violent relationship.
 
-问号和逗号连用。  
+    Used "方面" (aspect) instead of "方便" (convenient).
 
-49. 多处名字写错(第十七、二十、二十五、四十、四十二、五十一、五十五页)：  
+47. Typo (Page 67, acknowledgements, third paragraph, fourth line):
 
-1、多处将“Kleven”写成“Kelvin”，分别出现在第十七、四十、四十二页。  
-2、多处将“Kleven”写成“Kelven”，分别出现在第二十、五十五页。  
-3、将“Kleven”写成“Kelvev”，出现在第二十五页。
-4、将“Kleven”写成“Kelevn”，出现在第五十一页。 
+    >So I hope (希翼) to build a fertility-friendly society.
 
-50. 多处图注内容错误(第五十六、五十七、五十八页)：  
+    Likely used "希翼" (a rare word for hope) instead of the more common "希冀" (hope/wish for).
 
-1、图6.8注中将“NFHS 3”写成“NFHS3 年” 
-2、图6.9注中将“NFHS 3”写成“NFHS3 年” 
-3、图6.10注中将“NFHS 3”写成“NFHS3 年”  
-4、图6.11注中将“NFHS 3”写成“NFHS3 年”  
+48. Punctuation error (Page 67, acknowledgements, fourth paragraph, first line):
 
-### 格式与规范错误
+    >We often hear, isn't the status of Chinese women high enough already?,
 
-1. 页码错误：  
->![page](./pic/pg.jpeg)
+    Used a question mark and a comma together.
 
-论文的封面、声明、摘要、目录底下的页码的格式均存在问题。
+49. Multiple name misspellings (Pages 17, 20, 25, 40, 42, 51, 55):
 
-2. 缩进问题：  
->论文的英文摘要每一段开头未缩进。
-3. 格式错误(p1)：  
-第一页第二段第二至三行内容：“即有 27%的女性一生中至少遭受过一次来自丈夫或男性亲密伴侣的身体和/或性暴力侵害”  
->没有必要使用“和/或”，直接使用或也能表达和的意思。  
-4. 写错时间(p15)：  
-第十五页第一段第三至七行内容：“根据图 2.2 所示。从上世纪 70 年代以来，世界范围内人口总和生育率开始明显下降，与 1960 年-1665 之间的剧烈增长形成明显对比。平均每个妇女在育龄期间会生育的子女数从 1970 年的 4.79 降至 2019 年的 2.40，降幅接近一半。截止 2021 年，世界平均总和生育率已接近代际人口平衡所需的 2.1。”   
->未知意义的粗体文字。 
+    1.  Misspelled "Kleven" as "Kelvin" multiple times, appearing on pages 17, 40, and 42.
+    2.  Misspelled "Kleven" as "Kelven" multiple times, appearing on pages 20 and 55.
+    3.  Misspelled "Kleven" as "Kelvev" on page 25.
+    4.  Misspelled "Kleven" as "Kelevn" on page 51.
 
-5. 图片标题格式错误(第四十四页)：  
+50. Multiple errors in figure notes (Pages 56, 57, 58):
 
->图 5.1：生育子女数量对家庭暴力的影响 
+    1.  In the note for Figure 6.8, "NFHS 3" is written as "NFHS3 年" (NFHS3 year).
+    2.  In the note for Figure 6.9, "NFHS 3" is written as "NFHS3 年".
+    3.  In the note for Figure 6.10, "NFHS 3" is written as "NFHS3 年".
+    4.  In the note for Figure 6.11, "NFHS 3" is written as "NFHS3 年".
 
-其中图 5.1 后面加了冒号，与前后文格式不匹配。  
+### Formatting and Standardization Errors
 
-6. 引用格式错误(第五十三页最后一段第一行内容)：  
+1.  Page number error:
+    >![page](./pic/pg.jpeg)
 
->本文基于 Chen（2021 年）构建的各地区宗族变量”  
+    The format of the page numbers on the cover, declaration, abstract, and table of contents is incorrect.
 
-该引用格式与前后文不一致。 
+2.  Indentation issue:
+    >The beginning of each paragraph in the English abstract is not indented.
 
-7. 个人疑惑
+3.  Formatting error (p1):
+    Page 1, second paragraph, second to third lines: "meaning 27% of women have experienced physical and/or sexual violence..."
+    >There is no need to use "and/or"; "or" alone can also express the meaning of "and".
 
-武大经管的毕业论文引用文献是按首字母排序的吗？不用交叉引用的吗？感觉非常奇怪。请武大官方给出确切的格式说明。 
+4.  Incorrect time (p15):
+    Page 15, first paragraph, third to seventh lines: "According to Figure 2.2. Since the 1970s, the total fertility rate worldwide has begun to decline significantly, in sharp contrast to the dramatic increase between 1960 and -1665. The average number of children a woman would have during her childbearing years dropped from 4.79 in 1970 to 2.40 in 2019, a decrease of nearly half. As of 2021, the world's average total fertility rate has approached the 2.1 required for intergenerational population balance."
+    >Bold text with unknown meaning.
 
-### 学术伦理问题
-该文章阐述家庭暴力与生育、传统文化、宗教、女性就业之间的关联，在数据拟合度低的情况下强行将家暴与文化、宗教捆绑，该课题可能涉及较为严重的**学术伦理问题**。  
+5.  Figure caption formatting error (Page 44):
 
-### 文献引用错误
+    >Figure 5.1: The Impact of the Number of Children on Domestic Violence
 
-1. 图表引用错误(第二十六页倒数第七行内容)：  
->图 2.19 反映了这种现象，本文各省份分为宗族思想较强和宗族思想较弱的地区，结果发现，在宗族思想较强的地区，生育数量的上升往往伴随着较低的家暴发生率。  
+    A colon is used after "Figure 5.1," which is inconsistent with the formatting of other captions.
 
-图 2.19 反应的是家暴和生育的关系，跟宗教没有关系。  
+6.  Citation format error (Page 53, last paragraph, first line):
 
-2. 疑似引用重复(第六十三页)：  
- 
->[43] Card D, Dahl G B. Family Violence and Football: The Effect of Unexpected Emotional Cues on Violent Behavior[J]. The Quarterly Journal of Economics, 2011, 126(1): 103-143.
-[44] Card D, Dahl G B. Family Violence and Football: The Impact of Unexpected Emotional Cues on Violent Behavior[J]. Quarterly Journal of Economics 2011, 126(1): 103-143.  
+    >This paper is based on the regional clan variable constructed by Chen (2021 年)"
 
-其中[44]疑似错把“Effect”写为“Impact”。  
+    The format of this citation is inconsistent with others in the text.
 
-3. 疑似标题写错(第六十三页)：  
+7.  Personal Question
 
->[46] Cesur R, Sabia J J. When War Comes Home: The Impact of Combat Service on Domestic Violence[J]. Review of Economics and Statistics, 2016, 98(2): 209-225.  
+    Are thesis references at Wuhan University's Economics and Management School sorted alphabetically by first letter? Are cross-references not used? It feels very strange. We request an official explanation of the format from Wuhan University.
 
-我查到的题目只有 When War Comes Home: The effect of Combat Service on Domestic Violence
+### Academic Ethics Issues
+This article discusses the correlation between domestic violence and fertility, traditional culture, religion, and female employment. By forcibly linking domestic violence with culture and religion when the data fit is low, this topic may involve serious **academic ethics issues**.
 
-4. 完全重复(第六十四页)：  
-  
->[59] Dugan L, Nagin D S, Rosenfeld R. Explaining the Decline in Intimate Partner Homicide: The Effects of Changing Domesticity, Women's Status, and Domestic Violence Resources[J]. Homicide Studies, 1999, 3(3): 187-214.  
-[60] Dugan L, Nagin D S, Rosenfeld R. Explaining the Decline in Intimate Partner Homicide: The Effects of Changing Domesticity, Women's Status, and Domestic Violence Resources[J]. Homicide Studies, 1999, 3(3): 187-214.  
+### Reference Citation Errors
 
-5. 引用未写完整(第六十五页)：  
+1.  Figure/Table citation error (Page 26, seventh to last line):
+    >Figure 2.19 reflects this phenomenon. This paper divides provinces into regions with strong and weak clan ideologies, and the results show that in regions with strong clan ideologies, an increase in fertility is often accompanied by a lower incidence of domestic violence.
 
->[72] Guo R. A Theory of Differential Fertility under Filial Piety[J].   
+    Figure 2.19 shows the relationship between domestic violence and fertility, not religion.
 
-未写明会议/期刊的名称及出版年份。
+2.  Suspected duplicate citation (Page 63):
 
-在corssref、Google Scholar和Google都搜不到该论文，疑似为AI生成。 
+    >[43] Card D, Dahl G B. Family Violence and Football: The Effect of Unexpected Emotional Cues on Violent Behavior[J]. The Quarterly Journal of Economics, 2011, 126(1): 103-143.
+    >[44] Card D, Dahl G B. Family Violence and Football: The Impact of Unexpected Emotional Cues on Violent Behavior[J]. Quarterly Journal of Economics 2011, 126(1): 103-143.
 
-6. 完全重复(第六十五页)：  
+    In [44], "Effect" is suspected to be mistyped as "Impact."
 
->[87] McElroy M B, Horney M J. Nash-Bargained Household Decisions: Toward a Generalization of the Theory of Demand[J]. International Economic Review, 1981, 22(2): 333.  
-[88] McElroy M B, Horney M J. Nash-Bargained Household Decisions: Toward a Generalization of the Theory of Demand[J]. International Economic Review, 1981, 22(2): 333.  
+3.  Suspected incorrect title (Page 63):
 
-7. 引用未写完整(第六十六页)：  
+    >[46] Cesur R, Sabia J J. When War Comes Home: The Impact of Combat Service on Domestic Violence[J]. Review of Economics and Statistics, 2016, 98(2): 209-225.
 
->[96] Ramos A. Household Decision Making with Violence: Implications for Conditional Cash Transfer Programs[J].   
+    The title I found is "When War Comes Home: The Effect of Combat Service on Domestic Violence."
 
-未写明会议/期刊的名称及出版年份。  
+4.  Complete duplicate (Page 64):
 
-8. 完全重复(第六十六页)：  
- 
->[101]Tauchen H V, Witte A D, Long S K. Domestic Violence: A Nonrandom Affair[J]. International Economic Review, 1991, 32(2): 491.   
-[102]Tauchen H, Witte A, Long S. Domestic Violence - a Nonrandom Affair[J]. International Economic Review, 1991, 32(2): 491-511.  
+    >[59] Dugan L, Nagin D S, Rosenfeld R. Explaining the Decline in Intimate Partner Homicide: The Effects of Changing Domesticity, Women's Status, and Domestic Violence Resources[J]. Homicide Studies, 1999, 3(3): 187-214.
+    >[60] Dugan L, Nagin D S, Rosenfeld R. Explaining the Decline in Intimate Partner Homicide: The Effects of Changing Domesticity, Women's Status, and Domestic Violence Resources[J]. Homicide Studies, 1999, 3(3): 187-214.
 
-其中[102]中的符号“-”意义不明。  
+5.  Incomplete citation (Page 65):
 
-9. 疑似引用化学论文(第六十六页)：  
->[105]Wilson W W, Haiges R, Christe K. Contents Lists Available at Sciencedirect[J]. 2023.  
+    >[72] Guo R. A Theory of Differential Fertility under Filial Piety[J].
 
-该引用中“Contents Lists Available at Sciencedirect”，意思为“可在Sciencedirect获取”，不是某个文章的题目，该文章的出处疑似为化学材料相关期刊。 
+    The name of the conference/journal and the year of publication are not specified.
 
-10. 论文正文中很难找到引用了参考文献中的一些文献。 
+    This paper cannot be found on Crossref, Google Scholar, or Google, and is suspected to be AI-generated.
 
-例如第九至十页1.2.2小节引用的论文，我在参考文献中大部分都找不到。
+6.  Complete duplicate (Page 65):
 
+    >[87] McElroy M B, Horney M J. Nash-Bargained Household Decisions: Toward a Generalization of the Theory of Demand[J]. International Economic Review, 1981, 22(2): 333.
+    >[88] McElroy M B, Horney M J. Nash-Bargained Household Decisions: Toward a Generalization of the Theory of Demand[J]. International Economic Review, 1981, 22(2): 333.
 
-## 🏗️我的诉求
-- 要求武汉大学撤销杨某媛的硕士学位。  
-- 要求武汉大学撤销对肖同学的处罚决定，并公开致歉。  
-- 要求武汉大学保证肖同学顺利毕业，不能以身心健康问题或超过学习期限为由将肖同学退学。  
-- 要求公布杨某媛的高考录取信息。
-- 要求杨某媛的入党介绍人公开声明其对杨某诬告肖某事件的评价。
+7.  Incomplete citation (Page 66):
 
-## 📖参考文献
-[1]杨景媛. 中印生育行为影响家庭暴力的经济学分析. 武汉大学, 2024
+    >[96] Ramos A. Household Decision Making with Violence: Implications for Conditional Cash Transfer Programs[J].
 
-## 🙏acknowledge
-- 感谢各位提的issue
-- 感谢知乎答主 云杉
-- 感谢知乎答主 同工Same
-- 感谢哔哩哔哩up主 水论文的程序猿
+    The name of the conference/journal and the year of publication are not specified.
+
+8.  Complete duplicate (Page 66):
+
+    >[101]Tauchen H V, Witte A D, Long S K. Domestic Violence: A Nonrandom Affair[J]. International Economic Review, 1991, 32(2): 491.
+    >[102]Tauchen H, Witte A, Long S. Domestic Violence - a Nonrandom Affair[J]. International Economic Review, 1991, 32(2): 491-511.
+
+    The meaning of the hyphen "-" in [102] is unclear.
+
+9.  Suspected citation of a chemistry paper (Page 66):
+    >[105]Wilson W W, Haiges R, Christe K. Contents Lists Available at Sciencedirect[J]. 2023.
+
+    The phrase "Contents Lists Available at Sciencedirect" in this citation is not a title of an article but an instruction. The source of this article is suspected to be a journal related to chemical materials.
+
+10. It is difficult to find citations in the main text for some of the references listed in the bibliography.
+
+    For example, I cannot find most of the papers cited in section 1.2.2 on pages 9-10 in the reference list.
+
+## 🏗️My Demands
+- Demand that Wuhan University revoke Yang Jingyuan's master's degree.
+- Demand that Wuhan University revoke its punishment decision against student Xiao and issue a public apology.
+- Demand that Wuhan University guarantee student Xiao's smooth graduation and not expel him on the grounds of physical or mental health issues or exceeding the study period.
+- Demand the release of Yang Jingyuan's college entrance examination (Gaokao) admission information.
+- Demand that Yang Jingyuan's party admission sponsors publicly state their evaluation of the incident where Yang falsely accused Xiao.
+
+## 📖References
+[1]Yang Jingyuan. An Economic Analysis of the Impact of Fertility Behavior on Domestic Violence in China and India. Wuhan University, 2024
+
+## 🙏Acknowledge
+- Thanks to everyone who submitted issues.
+- Thanks to Zhihu user Yunshan.
+- Thanks to Zhihu user TonggongSame.
+- Thanks to Bilibili uploader "Shui Lunwen de Chengxuyuan" (The Programmer Who Pads Papers).
