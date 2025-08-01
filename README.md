@@ -1,9 +1,9 @@
 <h1 align="center">Compilation of Issues in Yang Jingyuan's Thesis</h1>
 
-&emsp;&emsp;This repository is dedicated to documenting the issues found in the **excellent** master's thesis by Yang Jingyuan, a student of International Economics and Trade at Wuhan University, titled "An Economic Analysis of the Impact of Fertility Behavior on Domestic Violence in China and India." I believe this repository is indeed<sup>[1]</sup> the **most comprehensive** record of errors on the entire internet. The original thesis can be found [here](./paper/YJYpaper.pdf). Everyone is welcome to comment and list more errors, or to provide addresses for reporting them. As shown below, this was declared by Dr. Yang herself!
+This repository is dedicated to documenting the issues found in the **excellent** master's thesis by Yang Jingyuan, a student of International Economics and Trade at Wuhan University, titled "An Economic Analysis of the Impact of Fertility Behavior on Domestic Violence in China and India." I believe this repository is indeed<sup>[1]</sup> the **most comprehensive** record of errors on the entire internet. The original thesis can be found [here](./paper/YJYpaper.pdf). Everyone is welcome to comment and list more errors, or to provide addresses for reporting them. As shown below, this was declared by Dr. Yang herself!
 ![sm](./pic/sm.jpeg)
 
-❗A blogger (Li Ranyuxin) has been visited late at night by "Pink-shirt Bro" and two "Gold Bros"!!! The video is on [Quark Cloud Drive](https://pan.quark.cn/s/10cebfa84661#/list/share), and I'm suddenly feeling a bit scared!!!
+❗A blogger (Li Ranyuxin) has been visited late at night by a Pink-shirt Bro and two Boys in Blue!!! The video is on [Quark Cloud Drive](https://pan.quark.cn/s/10cebfa84661#/list/share), and I'm suddenly feeling a bit scared!!!
 
 Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://github.com/yangjingyuan0828/awesome-yangjingyuan)
 
@@ -30,7 +30,7 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
     >And in 2001, with the introduction and promotion of the "Divorce Law"（“离婚法”）, 
 
-    China has never enacted a "Divorce Law." This is a fabrication.
+    China has never enacted a "Divorce Law". This is a fabrication.
 
 3.  Data fabrication (Page 14, Figure 2.1):
 
@@ -44,9 +44,7 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
     >![t5.1](./pic/tab4.jpeg)
 
-    The sum of urban and rural samples does not equal the total sample, suggesting data fabrication.
-    For example: 5230 + 5287 = 10517 ≠ 10519
-    &emsp;&emsp;&emsp;5510 + 5354 = 10864 ≠ 10867
+    The sum of urban and rural samples does not equal the total sample, suggesting data fabrication.5230 + 5287 = 10517 ≠ 10519.5510 + 5354 = 10864 ≠ 10867
 
 5.  Suspected data fabrication (Page 45, Table 5.2):
 
@@ -102,11 +100,11 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
     >Among more than two hundred countries in the world, 104 have a total fertility rate below the 2.1 required for intergenerational population balance.
 
-    There are 193 UN member states and 2 observer states (Vatican and Palestine), not "more than two hundred countries." The author is suspected of counting Hong Kong SAR, Macau SAR, and Taiwan Provice as independent countries. This constitutes a serious **political error**, which should be thoroughly investigated.
+    There are only 193 UN member states and 2 observer states (Vatican and Palestine), not "more than two hundred countries." The author is suspected of counting Hong Kong SAR, Macau SAR, and Taiwan Provice as independent countries. This constitutes a serious **political error**, which should be thoroughly investigated.
 
 2.  Year error (Page 4, seventh line):
 
-    >After the founding of New China（People's Republic of Chine, 新中国）, due to the gradual stability and development of the social economy, the total national population grew from 542 million before 1049 to 830 million in 1970.
+    >After the founding of New China（People's Republic of China, 新中国）, due to the gradual stability and development of the social economy, the total national population grew from 542 million before 1049 to 830 million in 1970.
 
     People's Republic of China was founded in 1949, not 1049. This is the second serious **political error**.
 
@@ -114,7 +112,7 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
     >It is predicted that the world population will peak at 10.3 billion in 2087, after which it will slowly decline to 10.3 billion in 2100.
 
-    God knows what was reduced here. One of these figures must be incorrect.
+    God knows what was reduced here. One of these two figures must be incorrect.
 
 4.  Abnormal x-axis (Page 20, Figure 2.8, Figure 2.9):
 
@@ -214,7 +212,7 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
     >The "Global, Regional, and National Survey on the Prevalence of Domestic Violence Against Women" released by the World Health Organization in 2018 shows that the lifetime prevalence of domestic violence among women of childbearing age is as high as 27%, meaning 27% of women have experienced physical and/or sexual violence from a husband or male intimate partner at least once in their lifetime.
 
-    If a male intimate partner is not married to the woman, it is not considered domestic violence.
+    Violence from male intimate partner is not considered domestic violence.
 
 4.  Typo (Page 3, caption for Figure 1.2):
 
@@ -247,9 +245,9 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
 8.  Typo (Page 8, sixth to seventh lines):
 
-    >At this time, there will only be expressive domestic violence (大家暴).
+    >At this time, there will only be expressive big（大） domestic violence.
 
-    The character "大" (big/large) is likely a typo for "的" (a possessive/descriptive particle).
+    The character "大" (big/large) is likely a typo for "的" (a possessive/descriptive particle).The word "expressive" means “表达性的”, not “表达性大”.
 
 9.  Incorrect character (Page 8):
 
@@ -266,7 +264,7 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
 11. Typo (Page 9, second to last line):
 
-    >Childbirth will also 是的 women's 工资率 rates to decrease.
+    >Childbirth will also _是的_ women's 工资率 rates to decrease.
 
     Used "是的" (is/yes) instead of "使得" (cause/make); "工资率" (wage rate) is likely a typo for "工资" (wages).
 
@@ -305,7 +303,7 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
     >I think (本人认为) there seems to be （似乎） and is indeed (确实) a positive relationship between fertility rate and domestic violence incidence.
 
-    Likely meant "This paper argues" (本文认为) instead of "I think" (本人认为); "seems to be indeed" (似乎确实) is redundant and grammatically awkward.
+    Likely meant "This paper argues" (本文认为) instead of "I think" (本人认为); "there seems to and is indeed" (似乎确实) is redundant and grammatically awkward.
 
 6.  Typo (Page 18, third line):
 
@@ -472,21 +470,21 @@ Friendly Link: [Pillar of Shame for Yang Jingyuan and Wuhan University](https://
 
 33. Typo (Page 59, second paragraph, third line):
 
-    >The group with a higher level of education (受教育群体较高的人群).
+    >The higher group with education
 
-    Wrote "受教育群体较高" (higher educated group) instead of "受教育水平较高" (higher education level).
+    Wrote "受教育群体较高" (higher group with education) instead of "受教育水平较高" (higher education level).
 
 46. Typo (Page 61, policy implications, third paragraph, last line):
 
-    >...can allow victims to more conveniently (方面) end the violent relationship.
+    >...can allow victims to more _方面_ end the violent relationship.
 
     Used "方面" (aspect) instead of "方便" (convenient).
 
 47. Typo (Page 67, acknowledgements, third paragraph, fourth line):
 
-    >So I hope (希翼) to build a fertility-friendly society.
+    >So I _希翼_ to build a fertility-friendly society.
 
-    Likely used "希翼" (a rare word for hope) instead of the more common "希冀" (hope/wish for).
+    Likely used "希翼", a Chinese word makes no sense, instead of "希冀" (hope/wish for).
 
 48. Punctuation error (Page 67, acknowledgements, fourth paragraph, first line):
 
